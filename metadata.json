@@ -1,0 +1,6 @@
+{
+  "name": "KaByte Informática - Loja de Hardware & Componentes",
+  "description": "Loja especializada em componentes de computador, hardware gamer, placas de vídeo, processadores, periféricos e eletrônicos com as melhores ofertas no PIX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
